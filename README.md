@@ -40,7 +40,7 @@ Le système est composé de trois micro-services connectés :
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com/votre-username/smart-irrigation.git](https://github.com/votre-username/smart-irrigation.git)
+git clone [https://github.com/souidelain/smart-irrigation.git](https://github.com/votre-username/smart-irrigation.git)
 cd smart-irrigation
 
 2 Setup de l'environnement virtuel
